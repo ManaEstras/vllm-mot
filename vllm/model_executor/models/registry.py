@@ -422,6 +422,10 @@ _MULTIMODAL_MODELS = {
         "hunyuan_vision",
         "HunYuanVLForConditionalGeneration",
     ),
+    "HunYuanVLMoTForConditionalGeneration": (
+        "hunyuan_vl_mot",
+        "HunYuanVLMoTForConditionalGeneration",
+    ),
     "InternVLChatModel": ("internvl", "InternVLChatModel"),
     "InternS1ForConditionalGeneration": (
         "interns1",
